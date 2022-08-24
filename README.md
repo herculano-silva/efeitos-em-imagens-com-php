@@ -1,2 +1,2 @@
 # efeitos-em-imagens-com-php
-Aplicando filtros com a biblioteca GD
+Aplicando filtros com a biblioteca GD do PHP.
